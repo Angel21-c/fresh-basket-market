@@ -97,6 +97,10 @@ body{
 .hero-text-tag{
     font-size: 1rem;
   }
+
+.hero-container{
+    padding: 3rem 2rem;
+  }
 }
 
 .hero-heading{

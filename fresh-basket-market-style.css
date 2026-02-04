@@ -120,7 +120,7 @@ body{
 .hero-list{
   display: flex;
   align-items: center;
-  gap: 5rem;
+  gap: 5px;
 }
 .hero-list i{
   color: #16a34a;
@@ -283,7 +283,7 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding:5rem;
+  padding:3rem;
   gap: 1rem;
   border-radius: 8px;
 }

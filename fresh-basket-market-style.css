@@ -287,9 +287,11 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
   padding:3rem;
   gap: 1rem;
   border-radius: 8px;
+  flex-wrap: wrap;
 }
 
 .ready-to-simplify-container h3{
@@ -334,10 +336,12 @@ body{
   color: #4b5563;
   font-size: 1.4rem;
 }
-@media(max-width:  762px) {
+@media(max-width:  894px) {
   .footer-container{
     gap: 1.5rem;
     justify-content: center;
+    text-align: center;
+    flex-direction: column;
   }
 }
 
